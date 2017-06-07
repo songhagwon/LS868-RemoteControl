@@ -1,0 +1,14 @@
+c:\users\mrt\documents\visual studio 2017\Projects\Remote\Remote\obj\Debug\Remote.csprojResolveAssemblyReference.cache
+c:\users\mrt\documents\visual studio 2017\Projects\Remote\Remote\obj\Debug\MainWindow.g.cs
+c:\users\mrt\documents\visual studio 2017\Projects\Remote\Remote\obj\Debug\App.g.cs
+c:\users\mrt\documents\visual studio 2017\Projects\Remote\Remote\obj\Debug\Remote_MarkupCompile.cache
+c:\users\mrt\documents\visual studio 2017\Projects\Remote\Remote\obj\Debug\Remote_MarkupCompile.lref
+c:\users\mrt\documents\visual studio 2017\Projects\Remote\Remote\bin\Debug\Remote.exe.config
+c:\users\mrt\documents\visual studio 2017\Projects\Remote\Remote\bin\Debug\Remote.exe
+c:\users\mrt\documents\visual studio 2017\Projects\Remote\Remote\bin\Debug\Remote.pdb
+c:\users\mrt\documents\visual studio 2017\Projects\Remote\Remote\obj\Debug\MainWindow.baml
+c:\users\mrt\documents\visual studio 2017\Projects\Remote\Remote\obj\Debug\Remote.g.resources
+c:\users\mrt\documents\visual studio 2017\Projects\Remote\Remote\obj\Debug\Remote.Properties.Resources.resources
+c:\users\mrt\documents\visual studio 2017\Projects\Remote\Remote\obj\Debug\Remote.csproj.GenerateResource.Cache
+c:\users\mrt\documents\visual studio 2017\Projects\Remote\Remote\obj\Debug\Remote.exe
+c:\users\mrt\documents\visual studio 2017\Projects\Remote\Remote\obj\Debug\Remote.pdb
